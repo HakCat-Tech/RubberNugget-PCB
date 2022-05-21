@@ -1,6 +1,6 @@
-update=Wed 01 Dec 2021 04:05:35 AM MST
+update=Sun 08 May 2022 10:48:17 PM PDT
 version=1
-last_client=pcbnew
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -12,10 +12,20 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=WiFi-Nugget-Deluxe.net
+LastNetListRead=v1.0-RubberNugget.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -29,9 +39,10 @@ MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.25
-TrackWidth2=0.15
-TrackWidth3=0.25
-TrackWidth4=0.3
+TrackWidth2=0.1
+TrackWidth3=0.15
+TrackWidth4=0.25
+TrackWidth5=0.3
 ViaDiameter1=0.8
 ViaDrill1=0.4
 ViaDiameter2=0.3
